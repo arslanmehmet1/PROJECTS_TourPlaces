@@ -1,6 +1,6 @@
 https://arslanmehmet1.github.io/PROJECTS_TourPlaces/
 
-![project gif](../chrome-capture-2022-9-19.gif)
+![project gif](./src/chrome-capture-2022-9-19.gif)
 
 # Getting Started with Create React App
 
