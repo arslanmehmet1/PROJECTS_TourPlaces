@@ -1,5 +1,7 @@
 https://arslanmehmet1.github.io/PROJECTS_TourPlaces/
 
+https://tour-place-webpage.netlify.app/
+
 ![project gif](./src/chrome-capture-2022-9-19.gif)
 
 # Getting Started with Create React App
